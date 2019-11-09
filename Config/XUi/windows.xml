@@ -1,0 +1,18 @@
+<configs>
+
+<!--	// SMX // Target Health Frame -->
+
+		<remove xpath="/windows/window[@name='windowTargetBar']" />
+
+		<append xpath="/windows">
+			<window name="windowTargetBar" controller="TargetBar">
+				<rect pos="-210,-85" size="420,80" visible="{visible}">
+					<sprite name="border" depth="1" size="420,90" atlas="hudElements" sprite="smx_thb_targethealth_background" type="sliced" globalopacity="false" />
+					<sprite name="BarContent" depth="2" pos="15,-53" size="390,30" atlas="hudElements" sprite="smx_thb_targethealth_bar" type="filled" fill="{fill}" globalopacity="false" />
+					<label name="TextContent" depth="3" pos="9,-27" height="30" text="{name}" color="[white]" font_size="32" font_face="AgencyB" crispness="Never" effect="outline" justify="center" pivot="topleft" />
+					<label name="TextContent" depth="3" pos="9,-58" height="30" text="{currentwithmax}" color="[white]" font_size="26" font_face="AgencyB" crispness="Never" effect="outline" justify="center" pivot="topleft" />
+				</rect>
+			</window>
+		</append>
+
+</configs>
