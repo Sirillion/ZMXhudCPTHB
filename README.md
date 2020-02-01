@@ -1,7 +1,7 @@
 # SMXhudTHB - A18
 
 <p align="center">
-  <img src="https://i.imgur.com/ZtHETVR.jpg" width="700" title="SMXhudTHB - Target Healthbar - A18">
+  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1580515861-1341784380.jpeg" width="700" title="SMXhudTHB - Target Healthbar - A18">
 </p>
 
 **Description:**
