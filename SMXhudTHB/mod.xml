@@ -8,7 +8,6 @@
 		<launcher_version>0.0.0</launcher_version>
 	</info>
 	<dependencies>
-		<dependency>0-SphereIICore</dependency>
 		<dependency>SMXhud</dependency>
 	</dependencies>
 </mod>

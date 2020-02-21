@@ -11,10 +11,14 @@
 		// DISCLAIMER:		Please be advised that this modlet is intended for use with the build mentioned above. That said it may very well be that
 							it can be used with other builds with little to no risk of failure. It all depends on the standard files being updated or not
 							and you can verify this by looking at the date of the standard files when an update have occured.
+							
+							This modlet use harmony patch scripts provided by sphereii in order to enable the target health bars in the game engine. Be
+							advised that using this modlet will patch your game engine and as such it will fail an EAC check if trying to connect to other
+							dedicated servers than EAC disabled ones.
 
-		// MOD DESCRIPTION:	The purpose of this modlet is to complement SMXhud by enabling the target healthbar. 
+		// MOD DESCRIPTION:	The purpose of this modlet is to complement SMXhud by enabling the target health bar. 
 
-		// DEPENDENCIES:	SMXhud, 0-SphereIICore.
+		// DEPENDENCIES:	SMXhud.
 
 		// TERMS OF USE:	You are allowed to use this modlet as is for your own personal use and/or distribute said modlet bundled with something of your
 							own creation as long as all the files of this modlet remain unaltered and you do not claim credit for creating the modlet itself
@@ -34,7 +38,6 @@
 
 		// CREDITS:			Sirillion (author)
 -->
-
 
 <!--	// SMX // Target Health Frame -->
 
