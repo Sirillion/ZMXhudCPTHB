@@ -8,7 +8,8 @@
 
 SMXhudTHB enables Target Health Bars for SMXhud.
 
+Thank you sphereii for creating the harmony scripts needed for this modlet to function.
 
-> Dependencies: SMXhud, 0-SphereIICore.
+> Dependencies: SMXhud.
 
 > Compatibility: Will work with all mods/modlets that doesn't modify the contents of the XUi folder.
