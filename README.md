@@ -1,15 +1,13 @@
-# SMXhudTHB - A18
+# ZMXhudCPTHB - A19
 
 <p align="center">
-  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1580515861-1341784380.jpeg" width="700" title="SMXhudTHB - Target Healthbar - A18">
+  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1601027236-619903796.jpeg" width="700" title="ZMXhudCPTHB - Target Health Bar - A19">
 </p>
 
 **Description:**
 
-SMXhudTHB enables Target Health Bars for SMXhud.
-
-Thank you sphereii for creating the harmony scripts needed for this modlet to function.
+ZMXhudCPTHB enables the Target Health Bars for SMXhud.
 
 > Dependencies: SMXhud.
 
-> Compatibility: Will work with all mods/modlets that doesn't modify the contents of the XUi folder.
+> Compatibility: Will probably work with most mods/modlets that doesn't modify the same windows/areas in the XUI files and have a lower load order.
