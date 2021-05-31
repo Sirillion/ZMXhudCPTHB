@@ -3,9 +3,9 @@
 <xml>
 	<ModInfo>
 		<Name value="ZMXhudCPTHB" />
-		<Description value="An extension modlet for SMXhud that enables Target Health Bars." />
+		<Description value="An extension modlet module for SMXhud that enables Target Health Bars." />
 		<Author value="Sirillion" />
-		<Version value="19.1.Release1" />
+		<Version value="r19.rc1" />
 		<Website value="http://www.nexusmods.com/7daystodie/mods/22/?" />
 	</ModInfo>
 </xml>
