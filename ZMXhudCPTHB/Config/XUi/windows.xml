@@ -1,12 +1,12 @@
-<ZMXhudCPTHB name="windows.xml">
+<ZMXhudCPTHB name="XUi/windows.xml">
 
 <!--	// MODLET:			ZMXhudCPTHB
 
-		// EAC:				Friendly
+		// EAC:				Non Friendly, SMX requires EAC to be DISABLED.
 
-		// VERSION:			r19.rc1
+		// VERSION:			r20.rc1
 
-		// BUILD:			A19.5
+		// BUILD:			A20.0
 
 		// DISCLAIMER:		Please be advised that this modlet is intended for use with the build mentioned above. That said it may very well be that
 							it can be used with other builds with little to no risk of failure. It all depends on the standard files being updated or not
@@ -17,13 +17,13 @@
 		// DEPENDENCIES:	SMXhud, SMXlib.
 
 		// TERMS OF USE:	You are allowed to use this modlet as is for your own personal use and/or on a server you run and/or administrate.
-		
-							You are under no circumstance allowed to distribute any SMX and/or ZMX branded modlets without written consent from the developer.
+
+							You are under no circumstance allowed to distribute any SMX and/or ZMX branded modlets without written consent from the main developer.
 
 							If you wish to distribute SMX and/or ZMX branded modlets as part of your own project and consent have been given you are required
 							to do so in such a way so that all the files of the SMX and/or ZMX modlet or modlets in question remain unaltered and you cannot
 							under any circumstance claim credit for creating the modlet or modlets or any of the files provided with it/them.
-							
+
 							If consent is given you are required to make the changes as a new modlet that injects into the modlet in question and
 							keeping load order in mind it is to be named so that it loads AFTER the original modlet. The original modlet shall be distributed
 							as is with no change to its files what so ever.
@@ -32,15 +32,17 @@
 							party or project. Nor will the consent pass on to other creators that opt to include consented work into their project.
 
 							You are not allowed to use any of the assets bundled with SMX and/or ZMX branded modlets in other projects. This restriction
-							applies to all files that the SMX and/or ZMX modlets consist of.
+							applies to all files that the SMX and/or ZMX modlets consist of. EXCEPTION: The content of the Harmony folder is to be considered
+							open source and can be used freely as long as the original credit comments within the files are not removed or altered other than
+							adding to.
 
-							You are required to seek special consent from the developer should you wish to make changes to any asset files provided with the
+							You are required to seek special consent from the main developer should you wish to make changes to any asset files provided with the
 							SMX and/or ZMX branded modlets.
 
-							You are required to inform the developer when your project that contains any SMX and/or ZMX modlet or modlets have been	made
+							You are required to inform the main developer when your project that contains any SMX and/or ZMX modlet or modlets have been made
 							available to the public.
 
-		// CREDITS:			Sirillion (developer, author)
+		// CREDITS:			Sirillion (main developer/designer/harmony/frontend/backend/author), sphereii (developer/harmony/backend), TormentedEmu (developer/harmony/backend)
 -->
 
 <!--	// SMX // Target Health Frame -->
