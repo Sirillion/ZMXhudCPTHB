@@ -1,7 +1,7 @@
 # ZMXhudCPTHB - THE TARGET HEALTH BAR EXTENSION MODLET
 > Verified to work with: A20.0B238 & A20.1B5
 
-> Dependencies: SMXhud.
+> Dependencies: [SMXhud](https://github.com/Sirillion/SMXhud).
 
 > Compatibility: Will probably work with most mods that doesn't modify the same windows in the XUI files.
 
